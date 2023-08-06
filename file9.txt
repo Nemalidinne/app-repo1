@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-file on server
-=======
-File on local
->>>>>>> 06030c8 (local)
